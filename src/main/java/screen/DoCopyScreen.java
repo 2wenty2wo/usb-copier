@@ -129,10 +129,8 @@ public class DoCopyScreen extends Screen {
                     // Line is empty
                 }
             }, stderrLine -> System.out.println("rsync stderr line: " + stderrLine), //
-                    "rsync", "-rIlptv", "--info=progress2",
-                    // End source dir in "/" to copy contents of dir, not dir itself
-                    selectedDrive.mountPoint + "/", //
-                    destDrive.mountPoint);
+                    "dd", "if=" + selectedDrive.rawDriveDevice, "of=" + destDrive.rawDriveDevice, "bs=8192",
+                    "status=progress", "oflag=direct");
 
             // Set each progress meter to 100% at the end of the copy, since "rsync --progress2" will show 0%
             // on termination if all files have already been copied, rather than 100%.
