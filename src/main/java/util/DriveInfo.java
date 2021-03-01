@@ -50,7 +50,7 @@ public class DriveInfo implements Comparable<DriveInfo> {
     public final String partitionDevice;
 
     /** The raw drive device, e.g. "/dev/sda". */
-    public volatile String rawDriveDevice = "";
+    public volatile String rawDriveDevice = "/dev/sda";
 
     /** True if the drive is plugged in, whether or not it's mounted. */
     public volatile boolean isPluggedIn;
