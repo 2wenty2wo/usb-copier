@@ -1,4 +1,5 @@
-# This project has been abandoned. Please try my new project: [2wenty2wo/Rpi-USB-Cloner](https://www.adafruit.com/product/3298](https://github.com/2wenty2wo/Rpi-USB-Cloner))
+# This project has been abandoned.
+# Please try my new project: [2wenty2wo/Rpi-USB-Cloner](https://www.adafruit.com/product/3298](https://github.com/2wenty2wo/Rpi-USB-Cloner))
 
 
 
