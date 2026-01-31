@@ -1,6 +1,6 @@
-*Attempting to change from rsync to dd:*
+# This project has been abandoned. Please try my new project: [2wenty2wo/Rpi-USB-Cloner]([https://www.adafruit.com/product/3298](https://github.com/2wenty2wo/Rpi-USB-Cloner))
 
-- Copy Progress bar isn't working since changing the copy command from rsync to dd.
+
 
 # usb-copier
 USB drive copier example project for the [Adafruit 128x64 OLED Raspberry Pi bonnet](https://www.adafruit.com/product/3531),
