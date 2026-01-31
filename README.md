@@ -1,4 +1,8 @@
-# usb-copier
+# usb-copier (Archived)
+
+**This project is archived and no longer maintained.** Please use the actively maintained replacement:
+[Rpi-USB-Cloner](https://github.com/2wenty2wo/Rpi-USB-Cloner).
+
 USB drive copier example project for the [Adafruit 128x64 OLED Raspberry Pi bonnet](https://www.adafruit.com/product/3531),
 using a USB hub such as the [Zero4U](https://www.adafruit.com/product/3298) shield.
 
