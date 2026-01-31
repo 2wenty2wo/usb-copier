@@ -1,9 +1,8 @@
-# This project has been abandoned.
-Please try my new project: [2wenty2wo/Rpi-USB-Cloner]([https://www.adafruit.com/product/3298](https://github.com/2wenty2wo/Rpi-USB-Cloner))
+# This project has been abandoned. Please try my new project: [2wenty2wo/Rpi-USB-Cloner](https://www.adafruit.com/product/3298](https://github.com/2wenty2wo/Rpi-USB-Cloner))
 
 
 
-# usb-copier
+## usb-copier
 USB drive copier example project for the [Adafruit 128x64 OLED Raspberry Pi bonnet](https://www.adafruit.com/product/3531),
 using a USB hub such as the [Zero4U](https://www.adafruit.com/product/3298) shield.
 
